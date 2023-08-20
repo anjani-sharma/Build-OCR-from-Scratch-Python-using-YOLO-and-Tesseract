@@ -1,0 +1,1 @@
+# Build-OCR-from-Scratch-Python-using-YOLO-and-Tesseract
